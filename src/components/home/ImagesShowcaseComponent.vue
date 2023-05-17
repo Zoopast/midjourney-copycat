@@ -22,7 +22,7 @@
                 <a
                   title="Sort by Recent"
                   class="hover:bg-uiBlue-600/80 active:bg-slate-800 active:ring-uiBlue-600 items-center py-2 text-base font-medium bg-opacity-80 focus:outline-none active:ring-2 shadow-sm capitalize rounded-full !px-4 min-w-max w-auto flex gap-1 !justify-between text-right text-slate-400 hover:!bg-slate-800/75 "
-                  href="/showcase/recent/"
+                  href="#"
                 >
 									<img
 										src="../../assets/RecentIcon.svg"
