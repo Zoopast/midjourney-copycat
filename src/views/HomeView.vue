@@ -5,9 +5,17 @@
 
 <template>
   <main
-    class="flex min-h-screen w-full select-text justify-center text-gray-700 antialiased"
+    class="grid grid-flow-row-dense grid-cols-8"
   >
-    <SideBar />
-    <ImagesShowcase />
+    <div
+      class="col-span-1 lg:col-span-2"
+    >
+      <SideBar />
+    </div>
+    <div
+      class="col-span-7 lg:col-span-6"
+    >
+      <ImagesShowcase />
+    </div>
   </main>
 </template>
